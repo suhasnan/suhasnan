@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suhasnan
 - 👀 I’m interested in Data Science, Data Engginer, And Data Analysist
-- 🌱 I’m currently learning in DQLab
+- 🌱 I’m currently learning in Datacamp
 - 💞️ I’m looking to collaborate on any company who need to process data
 - 📫 How to reach me in Instagram @suhasnan__
 
